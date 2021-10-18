@@ -33,3 +33,6 @@ C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNo
 C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\nkkun\source\repos\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.removedRequiredfrommodifed.resources
